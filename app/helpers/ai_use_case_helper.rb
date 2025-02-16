@@ -1,0 +1,2 @@
+module AiUseCaseHelper
+end

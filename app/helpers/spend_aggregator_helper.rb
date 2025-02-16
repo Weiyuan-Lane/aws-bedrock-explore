@@ -1,0 +1,2 @@
+module SpendAggregatorHelper
+end
